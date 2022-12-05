@@ -4,5 +4,6 @@ int main() {
     cout << "Hello, World!" << endl;
     cout<<"Изменение 1"<<endl;
     cout<<"Изменение 2"<<endl;
+    cout<<"Изменение 3 11:59"<<endl;
     return 0;
 }
